@@ -17,7 +17,6 @@ $RECYCLE.BIN/
 log.txt
 npm-debug.log*
 
-/bin
 /coverage
 /dist
 /node_modules
